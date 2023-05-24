@@ -133,4 +133,4 @@ dmypy.json
 *.log
 # Ignore all files in the temp folder
 temp/*
-*.ipynb
+*.ipynb*
