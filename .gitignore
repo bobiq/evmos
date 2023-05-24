@@ -1,0 +1,7 @@
+# Ignore .DS_Store file
+.DS_Store
+# Ignore all .log files
+*.log
+# Ignore all files in the temp folder
+temp/*
+*.ipynb
